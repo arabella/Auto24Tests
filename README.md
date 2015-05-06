@@ -11,7 +11,7 @@ select Model 530
 
 select Make Audi
 
-Check the value in Make input is rest to 'all'
+check the value in Make input is reset to 'all'
 
 
 #2
