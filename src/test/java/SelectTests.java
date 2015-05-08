@@ -10,7 +10,7 @@ public class SelectTests {
     public static void init() {
         Driver.initialize();
         Driver.goTo("http://www.auto24.ee");
-        HeaderNavigation.SetLang("In english");
+        HeaderNavigation.changeLanguage(Languages.ENGLISH);
     }
 
 
